@@ -1,0 +1,7 @@
+.env
+venv/
+mylangchainvenv/
+
+__pycache__/
+*.pyc
+.DS_Store
