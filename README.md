@@ -4,6 +4,7 @@ This repository contains my hands-on learning and experiments with LangChain and
 #Topics Covered
 * Chat Models ( HuggingFace)
 * Embeddings
+* Structuted Output parsers
 * Prompt Engineering
 * Memory (conversation history)
 
