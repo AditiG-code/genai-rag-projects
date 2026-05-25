@@ -49,4 +49,4 @@ chain=template1 | model | parser | template2 | model | parser
 result=chain.invoke({'topic':'hermione granger'})
 print(result)
 
-#python3 03_structured_output/output_using_parser.py
+#python3 03_structured_output/strparser.py
