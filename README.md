@@ -18,16 +18,14 @@ A simple chatbot built using LangChain that supports:
 
 #Project Structure
 langchain-learning/
-│
-├── 01_chat_models/      # Different LLM integrations
-├── 02_embeddings/       # Embedding models
-├── 03_prompting/        # Prompt experiments
-├── 04_chains/           # Chain examples
-├── 05_memory/           # Memory implementations
-├── projects/
-│   └── minichatbot.py   # Chatbot with memory
-│
-├── requirements.txt
-├── .env.example
-└── README.md
+01_chat_models ->    # Different LLM integrations
+02_embeddings/ ->   # Embedding models
+03_prompting/  ->       # Prompt experiments
+04_chains/    ->        # Chain examples
+05_memory/    ->        # Memory implementations
+projects/
+     minichatbot.py ->  # Chatbot with memory
+requirements.txt
+.env.example
+README.md
 
